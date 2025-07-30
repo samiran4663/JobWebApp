@@ -39,7 +39,4 @@ A full-featured **Job Portal Web Application** built using **Spring Boot**, desi
 - **MySQL**
 - **Maven**
 
----
-
-## 📁 Project Structure
 
