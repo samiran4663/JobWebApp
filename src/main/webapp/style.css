@@ -1,0 +1,35 @@
+/* style.css */
+
+body {
+    background: linear-gradient(to right, #1e96fc, #57d6e1);
+    color: #fff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.container {
+    padding: 40px 20px;
+    margin-top: 60px;
+}
+
+.navbar {
+    background-color: #ffe066; /* soft yellow */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.navbar-brand {
+    color: #1e96fc !important;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px;
+    color: #1e96fc !important;
+    font-weight: 500;
+}
+
+.navbar-nav .nav-link:hover {
+    text-decoration: underline;
+    color: #094db3 !important;
+}
